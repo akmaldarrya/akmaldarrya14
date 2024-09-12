@@ -1,4 +1,5 @@
-<iframe src="https://giphy.com/embed/bwCKz4gtGCrea5O2Rw" width="382" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/prometeo-prometeam-open-banking-bwCKz4gtGCrea5O2Rw">via GIPHY</a></p>
+<div align="center">
+  <img src="https://github.com/akmaldarrya14/akmaldarrya14/blob/main/giphy.webp" />
 
 - 👋 Hi, I’m @akmaldarrya14
 - 👀 I’m interested in ...
