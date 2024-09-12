@@ -1,3 +1,5 @@
+<body background-color="black">
+
 <div align="center" justify-content="space-around" display="flex">
   <img src="https://github.com/akmaldarrya14/akmaldarrya14/blob/main/squidward-dance-transparent.gif" width="10%" />
   <h4>HELLO, MY NAME IS AKMAL DARRYA FAWWAZ</h4>
@@ -12,3 +14,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+</body>
