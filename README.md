@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/bwCKz4gtGCrea5O2Rw" width="382" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/prometeo-prometeam-open-banking-bwCKz4gtGCrea5O2Rw">via GIPHY</a></p>
+
 - 👋 Hi, I’m @akmaldarrya14
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,7 +8,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-akmaldarrya14/akmaldarrya14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
