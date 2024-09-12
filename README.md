@@ -1,10 +1,4 @@
-<body background-color="black">
 
-<div align="center" justify-content="space-around" display="flex">
-  <img src="https://github.com/akmaldarrya14/akmaldarrya14/blob/main/squidward-dance-transparent.gif" width="10%" />
-  <img src="https://github.com/akmaldarrya14/akmaldarrya14/blob/main/2024-09-12-Hi-Im-Akmal-Darrya-Fawwaz.gif"
-  <img src="https://github.com/akmaldarrya14/akmaldarrya14/blob/main/squidward-dance-transparent.gif" width="10%" />
-</div>
 
 - 👋 Hi, I’m @akmaldarrya14
 - 👀 I’m interested in ...
@@ -13,5 +7,3 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-</body>
