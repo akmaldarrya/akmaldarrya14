@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/akmaldarrya14/akmaldarrya14/blob/main/giphy.webp](https://github.com/akmaldarrya14/akmaldarrya14/blob/main/squidward-dance-transparent.gif" />
+  <img src="https://github.com/akmaldarrya14/akmaldarrya14/blob/main/squidward-dance-transparent.gif" />
 
 - 👋 Hi, I’m @akmaldarrya14
 - 👀 I’m interested in ...
