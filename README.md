@@ -1,5 +1,8 @@
-<div align="center">
+<div align="center" justify-content="space-around">
   <img src="https://github.com/akmaldarrya14/akmaldarrya14/blob/main/squidward-dance-transparent.gif" width="20%" />
+  <h4>HELLO, MY NAME IS AKMAL DARRYA FAWWAZ</h4>
+  <img src="https://github.com/akmaldarrya14/akmaldarrya14/blob/main/squidward-dance-transparent.gif" width="20%" />
+</div>
 
 - 👋 Hi, I’m @akmaldarrya14
 - 👀 I’m interested in ...
