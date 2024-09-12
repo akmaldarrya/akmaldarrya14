@@ -2,7 +2,7 @@
 
 <div align="center" justify-content="space-around" display="flex">
   <img src="https://github.com/akmaldarrya14/akmaldarrya14/blob/main/squidward-dance-transparent.gif" width="10%" />
-  <h4>HELLO, MY NAME IS AKMAL DARRYA FAWWAZ</h4>
+  <img src="https://github.com/akmaldarrya14/akmaldarrya14/blob/main/2024-09-12-Hi-Im-Akmal-Darrya-Fawwaz.gif"
   <img src="https://github.com/akmaldarrya14/akmaldarrya14/blob/main/squidward-dance-transparent.gif" width="10%" />
 </div>
 
